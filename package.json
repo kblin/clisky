@@ -1,0 +1,15 @@
+{
+  "name": "clisky",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@atproto/api": "^0.6.20",
+    "dotenv": "^16.3.1"
+  }
+}

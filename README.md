@@ -5,8 +5,8 @@ A quick-and-dirty command line tool to post to Bluesky.
 
 ## Setup
 
-This project is using [Bun](https://bun.sh) as its JavaScript runtime, but
-other TypeScript-aware runtimes should work as well.
+This project is using [Bun](https://bun.sh) as its JavaScript runtime, but can
+likely be ported to other runtimes with reasonable effort.
 
 To install dependencies:
 
